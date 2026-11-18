@@ -1,5 +1,6 @@
+test.txt
+test1.txt
+test2.txt
+
 /target/
 **/*.rs.bk
-/test.txt
-/test1.txt
-/test2.txt
