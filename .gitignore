@@ -2,5 +2,5 @@ test.txt
 test1.txt
 test2.txt
 
-/target/
+target/
 **/*.rs.bk
